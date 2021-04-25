@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan özmen</h1>
-<h3 align="center">I am Learnin Java</h3>
+<h3 align="center">I am Learning Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkannzmn&label=Profile%20views&color=00ffff&style=flat" alt="furkannzmn" /> </p>
 
