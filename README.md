@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkannzmn&label=Profile%20views&color=00ffff&style=flat" alt="furkannzmn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/furkannzmn" target="blank"><img src="https://img.shields.io/twitter/follow/furkannzmn?logo=twitter&style=for-the-badge" alt="furkannzmn" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+
 
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -18,9 +18,9 @@
   
   ## Contact Me 📫
  
-- [![Twitter Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() Furkannzmn 
-- [![Instagram Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/furkannzmn?igshid=bn1hsajmm6kp) 
-  [![Twitter Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Furkannzmn) 
+- [![Twitter Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() ozmenf97@gmail.com 
+- [![Instagram Badge](https://img.shields.io/badge/Furkanözmen-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/furkannzmn?igshid=bn1hsajmm6kp) 
+  [![Twitter Badge](https://img.shields.io/badge/Furkanözmen-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Furkannzmn) 
 
   
   
