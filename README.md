@@ -4,12 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkannzmn&label=Profile%20views&color=00ffff&style=flat" alt="furkannzmn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/furkannzmn" target="blank"><img src="https://img.shields.io/twitter/follow/furkannzmn?logo=twitter&style=for-the-badge" alt="furkannzmn" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/furkannzmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="furkannzmn" height="30" width="40" /></a>
 <a href="https://instagram.com/furkannzmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="furkannzmn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/furkanözmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="furkanözmen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
