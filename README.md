@@ -18,6 +18,8 @@
   
   
   [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=furkannzmnn)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannzmnn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   
