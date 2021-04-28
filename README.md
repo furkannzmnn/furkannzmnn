@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://twitter.com/furkannzmn" target="blank"><img src="https://img.shields.io/twitter/follow/furkannzmn?logo=twitter&style=for-the-badge" alt="furkannzmn" /></a> </p>
 
 
-  
-    ---------------------------------------------------------------------------------------------------------------------------------------
 
   ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=furkannzmnn&show_icons=true&theme=tokyonight)
 
