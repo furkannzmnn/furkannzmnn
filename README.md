@@ -31,20 +31,17 @@
 
   ---
   
-    <details align="center">
+  <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
       <b>GitHub İstatistikleri</b>
       <i>(genişletmek için tıklayın!)</i>
     </summary>
+    
 
   ![Furkan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=furkannzmnn&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A)
   ![Furkanın'ın En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannzmnn&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A)
 
   </details>
   
-
-
-
-
 
 </samp>
