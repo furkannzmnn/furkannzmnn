@@ -1,25 +1,54 @@
-<h1 align="center">Hi 👋, I'm Furkan özmen</h1>
-<h3 align="center">I am Learning Java</h3>
+<samp>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkannzmn&label=Profile%20views&color=00ffff&style=flat" alt="furkannzmn" /> </p>
+  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Merhaba, Ben Furkan Özmen 🕊</h1>
 
-<p align="left"> <a href="https://twitter.com/furkannzmn" target="blank"><img src="https://img.shields.io/twitter/follow/furkannzmn?logo=twitter&style=for-the-badge" alt="furkannzmn" /></a> </p>
+  <p align="center">
+    <a href="https://github.com/furkannzmnn"><img src="https://visitor-badge.laobi.icu/badge?page_id=furkannzmnn" alt="Ziyaret"></a>
+  </p>
 
-
-
-  ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=furkannzmnn&show_icons=true&theme=tokyonight)
-
-  
-  ----------------------------------------------------------------------------------------------------------------------------------------
-  
-  ## Contact Me 📫
- 
-- [![Twitter Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() ozmenf97@gmail.com 
-- [![Instagram Badge](https://img.shields.io/badge/Furkanözmen-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/furkannzmn?igshid=bn1hsajmm6kp) 
-  [![Twitter Badge](https://img.shields.io/badge/Furkanözmen-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Furkannzmn) 
+  <details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>İlgi Alanlarım</b>
+      <i>(genişletmek için tıklayın!)</i>
+    </summary>
 
   
-  
+  ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
+  ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=EF7F1A&color=2B2A29)
+  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=EF7F1A&color=2B2A29)
+  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=EF7F1A&color=2B2A29)
+  ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
+  ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=EF7F1A&color=2B2A29)
+  </details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</samp>
