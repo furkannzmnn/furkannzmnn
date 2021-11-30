@@ -13,11 +13,8 @@
     </summary>
 
   
-  ![HTML5](https://img.shields.io/badge/html5-cD1?style=for-the-badge&logo=html5&logoColor=EF7F1A&color=2B2A29)
-  ![CSS3](https://img.shields.io/badge/css3-cD1?style=for-the-badge&logo=css3&logoColor=EF7F1A&color=2B2A29)
   ![JavaScript](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript&logoColor=EF7F1A&color=2B2A29)
   ![Java](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java&logoColor=EF7F1A&color=2B2A29)
-  ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
 
   </details>
   
