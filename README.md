@@ -18,9 +18,6 @@
   </details>
   
    <h2 style="color:#c1c1c1;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> İletişim: </h2>
-
-  <div align="center">
-    <a target="_blank" href="https://t.me/devopssa">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
     <a target="_blank" href="https://twitter.com/furkannzmn">        <img alt="iletisim | Twitter"  src="https://img.shields.io/badge/twitter-2B2A29.svg?style=for-the-badge&logo=twitter&logoColor=EF7F1A"></a>
     <a target="_blank" href="https://tr.linkedin.com/in/furknnzmnn"> <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=EF7F1A"></a>
   </div>
